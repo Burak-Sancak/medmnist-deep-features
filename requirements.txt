@@ -1,0 +1,9 @@
+medmnist
+numpy
+pandas
+scikit_learn
+scipy
+tabulate
+torch
+torchvision
+xgboost
